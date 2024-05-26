@@ -1,0 +1,8 @@
+../Core/Src/bmp280.c:4:13:read_register	40	static
+../Core/Src/bmp280.c:9:13:write_register	32	static
+../Core/Src/bmp280.c:14:13:read_calibration_data	40	static
+../Core/Src/bmp280.c:28:6:bmp280_init_default_params	16	static
+../Core/Src/bmp280.c:38:6:bmp280_init	24	static
+../Core/Src/bmp280.c:70:13:read_raw_temperature	24	static
+../Core/Src/bmp280.c:80:16:compensate_temperature	32	static
+../Core/Src/bmp280.c:89:6:bmp280_read_fixed_temperature	24	static
